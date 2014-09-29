@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>104EE9A8-EBFC-4F41-9E11-6FB3430D0447</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tutorial_opengl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>70E1012F-4F64-4D16-892C-94CC6F49EDF0</key>
+		<string>https://github.com/raindrop-aqua/learn-opengl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>opngl_2d/tutorial_opengl11/tutorial_opengl.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>70E1012F-4F64-4D16-892C-94CC6F49EDF0</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/raindrop-aqua/learn-opengl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>70E1012F-4F64-4D16-892C-94CC6F49EDF0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>70E1012F-4F64-4D16-892C-94CC6F49EDF0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>learn-opengl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
